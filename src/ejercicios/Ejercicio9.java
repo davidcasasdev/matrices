@@ -3,8 +3,10 @@ import java.util.Scanner;
 
 import funciones.FuncionesMatrices;
 /**
- * 6. Dado un array de tamaño (N,M) de enteros, buscar el 
- * máximo valor almacenado. 
+ * 9. Dada un array de tamaño (M,N) de reales, almacenarlo 
+ * sobre otro array de tamaño (N,M) de forma transpuesta, 
+ * es decir, el elemento (1,2) del primer array se 
+ * almacenará en el elemento (2,1) del segundo 
  * @author David
  *
  */
